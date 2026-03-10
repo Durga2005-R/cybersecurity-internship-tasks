@@ -67,6 +67,35 @@ The analyzed emails were classified into:
 
 A **Phishing Detection & Awareness Report** was created and uploaded to this repository as a PDF file.
 
+Cyber Security Task 3 – API Security Risk Analysis
+
+Objective
+The goal of this task is to analyze public APIs and identify potential security risks such as open endpoints, excessive data exposure, and missing authentication mechanisms.
+
+API Tested
+https://jsonplaceholder.typicode.com
+
+Endpoints Analyzed
+/users
+/posts
+/comments
+/albums
+
+Tools Used
+Browser (Google Chrome)
+JSONPlaceholder Public Test API
+Microsoft Word
+
+Security Risks Identified
+Open API endpoints without authentication
+Excessive data exposure in API responses
+Email addresses visible in responses
+Lack of rate limiting
+
+Deliverable
+An API Security Risk Analysis Report was created and uploaded to this repository as a PDF file along with supporting screenshots.
+
+
 
 ## Deliverable
 Vulnerability Assessment Report created in Canva and exported as PDF.
