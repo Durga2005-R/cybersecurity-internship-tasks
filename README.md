@@ -1,3 +1,11 @@
+## Internship Details
+
+* **Internship Track:** Cyber Security
+* **Organization:** Future Interns
+* **Intern:** Durga Ramasamy
+* **Program Type:** Self-paced Cyber Security Internship
+
+This repository contains the cybersecurity tasks completed during the internship, including vulnerability assessment, phishing detection analysis, and API security risk analysis.
 # Cybersecurity Internship Tasks
 
 This repository contains my work for a Cyber Security Internship.
