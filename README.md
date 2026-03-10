@@ -133,10 +133,5 @@ Read-only security analysis of publicly available API endpoints using safe GET r
 ## Deliverable
 
 An **API Security Risk Analysis Report** was created in Microsoft Word and exported as a PDF.
-The report and supporting screenshots were uploaded to this repository.
-
-
-
-
 ## Deliverable
 Vulnerability Assessment Report created in Canva and exported as PDF.
