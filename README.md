@@ -1,3 +1,12 @@
+# Cybersecurity Internship Tasks
+
+This repository contains my work for a Cyber Security Internship.
+
+It includes:
+
+* Vulnerability Assessment
+* Phishing Detection & Awareness
+* API Security Risk Analysis
 # Cyber Security Task 1 – Vulnerability Assessment
 
 ## Website Tested
