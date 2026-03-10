@@ -98,9 +98,9 @@ Read-only security analysis of publicly available API endpoints using safe GET r
 
 ## Tools Used
 
-* Browser (Google Chrome)
-* JSONPlaceholder Public Test API
-* Microsoft Word
+ * Google Chrome Browser
+ * JSONPlaceholder Public Test API
+ * Microsoft Word
 
 ## Testing Methodology
 
