@@ -68,43 +68,43 @@ The analyzed emails were classified into:
 A **Phishing Detection & Awareness Report** was created and uploaded to this repository as a PDF file.
 # Cyber Security Task 3 – API Security Risk Analysis
 
-**Objective**
+## Objective
 The goal of this task is to analyze public APIs and identify potential security risks such as open endpoints, excessive data exposure, and missing authentication mechanisms.
 
-**API Tested**
+## API Tested
 https://jsonplaceholder.typicode.com
 
-**Scope**
+## Scope
 Read-only security analysis of publicly available API endpoints using safe GET requests.
 
-**Endpoints Analyzed**
+## Endpoints Analyzes
 /users
 /posts
 /comments
 /albums
 
-**Tools Used**
+## Tools Used
 Browser (Google Chrome)
 JSONPlaceholder Public Test API
 Microsoft Word
 
-**Security Risks Identified**
+## Security Risks Identified
 Open API endpoints without authentication
 Excessive data exposure in API responses
 Email addresses visible in responses
 Lack of rate limiting
 
-**Business Impact**
+## Business Impact
 Unauthorized users may access sensitive data such as email addresses and user details.
 Public access to API endpoints can allow attackers to collect information or abuse the system.
 
-**Recommendations**
+## Recommendations
 Implement authentication mechanisms such as API keys or OAuth tokens.
 Limit sensitive information returned in API responses.
 Apply rate limiting to prevent abuse.
 Restrict API access using proper authorization controls.
 
-**Deliverable**
+## Deliverable
 An API Security Risk Analysis Report was created in Microsoft Word and exported as a PDF.
 The report and supporting screenshots were uploaded to this repository.
 
