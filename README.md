@@ -133,5 +133,36 @@ Read-only security analysis of publicly available API endpoints using safe GET r
 ## Deliverable
 
 An **API Security Risk Analysis Report** was created in Microsoft Word and exported as a PDF.
+## Skills Gained
+
+During this internship, the following cybersecurity skills were practiced and developed:
+
+* Vulnerability assessment and security scanning
+* Phishing email detection and threat analysis
+* API security testing and risk identification
+* Security documentation and reporting
+* Understanding of OWASP security concepts
+  
+## Tools Used
+
+The following tools were used to complete the cybersecurity tasks:
+
+* OWASP ZAP
+* Nmap
+* Browser Developer Tools
+* JSONPlaceholder Test API
+* Microsoft Word
+* GitHub
+## Internship Completion Note
+
+These cybersecurity tasks were completed as part of my internship training to develop practical skills in vulnerability assessment, phishing detection, and API security analysis.
+
+All testing was conducted on publicly available demo websites and test APIs using safe and ethical security practices.
+
+The reports and screenshots included in this repository document the analysis process, identified risks, and recommended security improvements.
+
+  
+
+
 ## Deliverable
 Vulnerability Assessment Report created in Canva and exported as PDF.
